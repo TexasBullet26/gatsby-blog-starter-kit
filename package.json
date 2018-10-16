@@ -2,8 +2,8 @@
   "name": "gatsby-blog-starter-kit",
   "description": "Gatsby blog starter example",
   "version": "1.2.0",
-  "author": "Dustin Schau <dustinschau@gmail.com> (https://dustinschau.com)",
-  "repository": "https://github.com/dschau/gatsby-blog-starter-kit",
+  "author": "Glenn Lanzer III <lanzertrey@gmail.com> (https://github.com/TexasBullet26)",
+  "repository": "https://github.com/TexasBullet26/gatsby-blog-starter-kit",
   "dependencies": {
     "gatsby": "~2.0.0-beta.69",
     "gatsby-link": "2.0.0-beta.4",
